@@ -1,0 +1,17 @@
+h1, p {
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(255, 255, 255);
+}
+#page {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(360deg, #000000, #680101, #a10101);
+    width:100vw;
+    height:100vh;
+}
+body {
+    margin: 0px;
+}
